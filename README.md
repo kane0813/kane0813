@@ -1,5 +1,23 @@
-<div>
-<div> <a href="tel:+251985205955">📱 +251985205955 </a> &nbsp;&nbsp; <a href="tel:+251777980013">📱+251777980013 </a> &nbsp;&nbsp; <a href="https://t.me/kane0813"  target=blank><img alt="telegram icon" width="25px" src="https://img.icons8.com/?size=100&id=C6eS55cA5a9x&format=png&color=FFFFFF"></a> &nbsp;&nbsp; <a href="https://bereketkahsay.vercel.app" target=blank>🌐 Portfolio</a> </div></div>
+
+<div align=right> 
+  <a href="tel:+251985205955" >
+    <img alt="call icon" width="16px"  align="absmiddle" src="https://img.icons8.com/?size=100&id=9730&format=png&color=FFFFFF"> 
+    <img alt="Static Badge" width="120px" align="absmiddle" src="https://img.shields.io/badge/+251985205955-0d1117?style=flat-square">
+  </a> &nbsp;&nbsp; 
+  <a href="tel:+251777980013">
+    <img alt="call icon" width="16px" align="absmiddle" src="https://img.icons8.com/?size=100&id=9730&format=png&color=FFFFFF">
+  <img alt="Static Badge" width="120px" align="absmiddle" src="https://img.shields.io/badge/+251777980013-%230d1117?style=flat-square">
+  </a> &nbsp;&nbsp; 
+<a href="https://t.me/kane0813" >
+<img
+   alt="telegram icon"
+   width="16"
+  align="absmiddle"
+  src="https://img.icons8.com/?size=100&id=C6eS55cA5a9x&format=png&color=FFFFFF">
+  Telegram 
+</a> &nbsp;&nbsp; 
+  <a href="https://bereketkahsay.vercel.app" target=blank>🌐Portfolio</a> </div>
+
 
 ##  Hi there 👋 bereket kahsay here                             
 I am a junior software engineer passionate about software development and eager to contribute to innovative projects. With a strong foundation in software engineering and a drive to continuously learn, I adapt quickly to new technologies and challenges. I strive to follow in the footsteps of the pioneers who came before me while building something meaningful of my own.
