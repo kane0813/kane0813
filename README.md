@@ -7,7 +7,11 @@ i am bereket kahsay a junior software engineer who is passsionate about software
    <img  style="border-radius: 200px;"  src="https://skillicons.dev/icons?i=figma,illustrator" alt="My App">
 
   #### front end stack
- <img  style="border-radius: 200px;"  src="https://skillicons.dev/icons?i=html,css,tailwind,react,reactnative" alt="My App">
+  <div align=left>
+     <img  style="border-radius: 200px;"  src="https://skillicons.dev/icons?i=html,css,tailwind,react" alt="My App">
+ <img  style="border-radius: 200px;" height="50px"  src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" alt="My App">
+  </div>
+
 
   ### back end stack
  <img  style="border-radius: 200px;"  src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql,sqlite,postgresql,nextjs," alt="My App">
