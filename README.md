@@ -8,7 +8,7 @@
     <img alt="call icon" width="16px" align="absmiddle" src="https://img.icons8.com/?size=100&id=9730&format=png&color=FFFFFF">
   <img alt="Static Badge" width="120px" align="absmiddle" src="https://img.shields.io/badge/+251777980013-%230d1117?style=flat-square">
   </a> &nbsp;&nbsp; 
-<a href="https://t.me/kane0813" >
+<a href="https://t.me/kane0813" target="_blank">
 <img
    alt="telegram icon"
    width="16"
@@ -16,7 +16,7 @@
   src="https://img.icons8.com/?size=100&id=C6eS55cA5a9x&format=png&color=FFFFFF">
   Telegram 
 </a> &nbsp;&nbsp; 
-  <a href="https://bereketkahsay.vercel.app" target=blank>🌐Portfolio</a> </div>
+  <a href="https://bereketkahsay.vercel.app" target="_blank">🌐Portfolio</a> </div>
 
 
 ##  Hi there 👋 bereket kahsay here                             
