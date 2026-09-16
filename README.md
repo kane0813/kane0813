@@ -1,5 +1,16 @@
 ## Hi there 👋
 i am bereket kahsay a junior software engineer who is passsionate about software development eager to contribute to innovative projects. with a strong foundation in software development that helps me learn new technologies quite fast i strive to achive what my fore fathers (in software engineering) achived
+#### i am skilled in 
+
+<div >
+<img alt="Static Badge" width="160px" src="https://img.shields.io/badge/requirement_analysis-%23f5f5f5?style=flat">
+<img alt="Static Badge" width="170px" src="https://img.shields.io/badge/user expirence design-%23f5f5f5?style=flat">
+<img alt="Static Badge" width="160px" src="https://img.shields.io/badge/user interface design-%23f5f5f5?style=flat">
+<img alt="Static Badge" width="65px" src="https://img.shields.io/badge/rest api-%23f5f5f5?style=flat">
+<img alt="Static Badge" width="160px" src="https://img.shields.io/badge/software archtecture-%23f5f5f5?style=flat">
+<img alt="Static Badge" width="120px" src="https://img.shields.io/badge/design patterns-%23f5f5f5?style=flat">
+<img alt="Static Badge" width="60px" src="https://img.shields.io/badge/testing-%23f5f5f5?style=flat">
+</div>
 
 ## tech stack
 
@@ -24,7 +35,7 @@ i am bereket kahsay a junior software engineer who is passsionate about software
 
   #### reasearching and learning about 
   <div align=left >
-  <img  style="border-radius: 200px;"  src="https://skillicons.dev/icons?i=kubernetes,rust" alt="My App">
+  <img  style="border-radius: 200px;"  src="https://skillicons.dev/icons?i=kubernetes,rust,redis" alt="My App">
  <img  style="border-radius: 200px;" height="50px"   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdz4BgO0vE6AzKo3yaBOD8gI1CHyHHoMO1peE1ZR4ihQ&s" alt="My App">
     
   </div>
