@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+i am bereket kahsay a junior software engineer who is passsionate about software development eager to contribute to innovative projects. with a strong foundation in software development that helps me learn new technologies quite fast i strive to achive what my fore fathers (in software engineering) achived
 <!--
 **kane0813/kane0813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
