@@ -1,3 +1,6 @@
+<div>
+<div> <a href="tel:+251985205955">📱 +251985205955 </a> &nbsp;&nbsp; <a href="tel:+251777980013">📱+251777980013 </a> &nbsp;&nbsp; <a href="https://t.me/kane0813"  target=blank><img alt="telegram icon" width="25px" src="https://img.icons8.com/?size=100&id=C6eS55cA5a9x&format=png&color=FFFFFF"></a> &nbsp;&nbsp; <a href="https://bereketkahsay.vercel.app" target=blank>🌐 Portfolio</a> </div></div>
+
 ##  Hi there 👋 bereket kahsay here                             
 I am a junior software engineer passionate about software development and eager to contribute to innovative projects. With a strong foundation in software engineering and a drive to continuously learn, I adapt quickly to new technologies and challenges. I strive to follow in the footsteps of the pioneers who came before me while building something meaningful of my own.
 #### Areas of Expertise
@@ -14,6 +17,7 @@ I am a junior software engineer passionate about software development and eager 
 <img alt="Static Badge" width="68px" src="https://img.shields.io/badge/rest api-%23f5f5f5?style=flat">
 <img alt="Static Badge" width="63px" src="https://img.shields.io/badge/testing-%23f5f5f5?style=flat">
 </div>
+
 
 ## tech stack
 
